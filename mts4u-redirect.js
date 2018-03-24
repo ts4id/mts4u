@@ -25,5 +25,5 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-protected_links = "twitter.com,youtube.com,facebook.com,modthesims4u.blogspot.com";
+protected_links = "twitter.com,youtube.com,facebook.com,plus.google.com,modthesims4u.blogspot.com";
 auto_safelink();
